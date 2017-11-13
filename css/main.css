@@ -1,0 +1,31 @@
+
+
+
+/* <!--  economic & first color class choose html section --> */
+.first-class {
+    /* outline: 1px solid red; */
+    background: purple;
+    display: block;
+    height: 10px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.economic-class {
+    background: yellow;
+    display: block;
+    height: 10px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+   
+}
+
+/* <!--  seat.className = "seats"  in js  -->*/
+.seats {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+}
